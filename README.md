@@ -1,4 +1,4 @@
-<p align="center"><img align="center" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/></p>
+<p align="center"><img align="center" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/></p>
 <h3 align="center"><a href="https://sreejanroy.me/">Portfolio</a> | <a href="https://drive.google.com/file/d/10RnfsIGD3-B9f-o0OKEc7VuQAUUhCia4/view?usp=sharing">Resume</a> | <a href="https://www.linkedin.com/in/roysreejan/">LinkedIn</a></h3>
 <br/>
 
