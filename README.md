@@ -1,4 +1,8 @@
-# Hi there 👋, I'm Sreejan Roy
+<p align="center"><img align="center" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/></p>
+<h3 align="center"><a href="https://sreejanroy.me/">Portfolio</a> | <a href="https://drive.google.com/file/d/10RnfsIGD3-B9f-o0OKEc7VuQAUUhCia4/view?usp=sharing">Resume</a> | <a href="https://www.linkedin.com/in/roysreejan/">LinkedIn</a></h3>
+<br/>
+
+# Hi there, I'm Sreejan Roy 👋
 🎓 Completed my Bachelor’s in Computer Science and Engineering with strong expertise in modern web technologies. Skilled in building clean, efficient, and user-focused applications, with experience delivering reliable solutions in production.
 
 
