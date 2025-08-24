@@ -67,6 +67,10 @@ I've learned the following things during my learning journey.
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roysreejan&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=roysreejan&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+<p>
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example">
+</p>
+
 <a href="https://github.com/roysreejan/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=rubiyet">
+    <img src="https://komarev.com/ghpvc/?username=roysreejan">
 </a><a href="https://github.com/roysreejan?tab=followers"><img src="https://img.shields.io/github/followers/roysreejan?label=Followers&style=social" alt="GitHub Badge"></a>
