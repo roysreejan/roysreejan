@@ -6,7 +6,7 @@
 🎓 Completed my Bachelor’s in Computer Science and Engineering with strong expertise in modern web technologies. Skilled in building clean, efficient, and user-focused applications, with experience delivering reliable solutions in production.
 
 
-💻 I am currently working as a Software Engineer
+💻 I am currently working as a Junior Software Engineer at **TechnoNext Software Ltd.(US-Bangla Group)**
 
 🌱 I am currently working on **React, Next Js**.
 
